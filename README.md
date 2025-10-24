@@ -10,7 +10,7 @@ npm install
 ```
 npx expo start
 ```
-#Para rodar a atividade Button#
+# Para rodar a atividade Button #
 Faça as seguintes etpas apos clonar o repositorio
 ```
 cd Desenvolvimento-Mobile
